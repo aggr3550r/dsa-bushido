@@ -10,7 +10,7 @@ class AnagramInAction {
     }
 }
 
-
+// implementation of anagram algo in Java(verbose as shit I know)
 public class Anagram {
     public static boolean anagram(String str1, String str2) {
         if (str1.length() != str2.length()) {
